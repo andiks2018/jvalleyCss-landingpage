@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-izjq9v)
 
-cara embed
+cara embed/ iframe
 ## Youtube
 ![youtube](https://user-images.githubusercontent.com/78794419/182730544-629d2c11-7945-4eb8-8441-55cacf316692.png)
 
